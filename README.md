@@ -4,11 +4,11 @@
 
 ## Índice
 
-* [Descrição](##Descrição)
-* [Tecnologias Utilizadas](##Tecnologias-Utilizadas)
-* [Funcionalidades](##Funcionalidades)
-* [Autores](##Autores)
-* [Licença](##Licença)
+* [Descrição](#Descrição)
+* [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
+* [Funcionalidades](#Funcionalidades)
+* [Autores](#Autores)
+* [Licença](#Licença)
 
 ## Descrição
 
