@@ -2,6 +2,8 @@
 
 > Status do Projeto: Em Desenvolvimento
 
+![imagem](https://raw.githubusercontent.com/lfrossinhole/estudo-de-caso-devops/main/ImagemREADME.png)
+
 ## Índice
 
 * [Descrição](#Descrição)
