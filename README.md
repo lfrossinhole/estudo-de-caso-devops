@@ -1,5 +1,7 @@
 # Estudo de Caso DevOps: Banco X
 
+# ![license](https://img.shields.io/badge/licence-MIT-yellow)
+
 > Status do Projeto: Em Desenvolvimento
 
 ![imagem](https://raw.githubusercontent.com/lfrossinhole/estudo-de-caso-devops/main/ImagemREADME.png)
