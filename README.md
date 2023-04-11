@@ -1,10 +1,10 @@
 # Estudo de Caso DevOps: Banco X
 
-# ![license](https://img.shields.io/badge/licence-MIT-yellow)
+![imagem license](https://img.shields.io/badge/licence-MIT-yellow)
 
 > Status do Projeto: Em Desenvolvimento
 
-![imagem](https://raw.githubusercontent.com/lfrossinhole/estudo-de-caso-devops/main/ImagemREADME.png)
+![imagem capa](https://raw.githubusercontent.com/lfrossinhole/estudo-de-caso-devops/main/ImagemREADME.png)
 
 ## Índice
 
@@ -44,7 +44,7 @@ Este projeto tem como objetivo implementar as práticas DevOps na empresa Banco 
 ## Autores
 
 | [Lucas Feitosa Rossinhole](https://github.com/lfrossinhole) | [Fábio Braga Camini](https://github.com/Fabiocamini)
-| :---: | :---: |
+| :---: | :---:
 
 ## Licença
 
